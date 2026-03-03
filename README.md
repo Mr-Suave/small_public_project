@@ -1,6 +1,7 @@
 # small_public_project
-OH I accidentally deleted some files by mistake, what do I do now?
-Please help!
+I am a small developer and my friend says to me - you have erred but it's okay, it's just every rookie's first mistake! But I am really tensed.
+
+Please help me!!!
 
 
 
